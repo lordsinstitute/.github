@@ -1,2 +1,0 @@
-# .github
-Lords Institute
