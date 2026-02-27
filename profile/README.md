@@ -66,7 +66,7 @@ This organization is supported by student leaders, community builders, and mento
 
 For collaborations, workshops, or partnerships:
 
-* 📧 Email: [liet-gh@lords.ac.in](mailto:liet-gh@lords.ac.in)
+* 📧 Email: [liet_gh@lords.ac.in](mailto:liet_gh@lords.ac.in)
 * 🌐 Website: [https://lords.ac.in](https://lords.ac.in)
 * 📍 Location: Hyderabad, India
 
