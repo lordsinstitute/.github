@@ -82,6 +82,6 @@ At Lords Institute, we believe learning happens best by building together. Wheth
 
 We are committed to maintaining a respectful, inclusive, and professional environment for everyone contributing to this organization. All students, faculty, collaborators, and community members are expected to follow our Code of Conduct.
 
-👉 Please read the full Code of Conduct here: **[COC]**
+👉 Please read the full Code of Conduct here: **[COC](https://github.com/lordsinstitute/.github/blob/main/CODE_OF_CONDUCT.md)**
 
 Any violation may result in removal from repositories or community activities. We encourage open collaboration built on mutual respect and professionalism.
